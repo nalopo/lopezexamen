@@ -7,3 +7,4 @@
 7) merge bug -> branch1
 8) merge branch1 -> master; tag v1; push
 8) merge branch1 -> master; tag v1; push
+9) add localidad to readme
