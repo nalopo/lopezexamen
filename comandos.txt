@@ -13,3 +13,4 @@
 9) add localidad to readme
 >>>>>>> 8185f638b517d36d669ba036d42b2326cb6a4ad8
 11) conflict resolved in clone; push
+11) conflict resolved in clone; push
