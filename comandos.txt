@@ -1,1 +1,2 @@
  1 iniciar repo 
+ 2 crear rama branch1 
