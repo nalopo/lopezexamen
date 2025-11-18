@@ -3,3 +3,4 @@
  3 mkdir -p prog si bddd 
 4 echo "<?php // index ?>" > prog/index.php
 5 desde si: cp ../prog/index.php ../bbdd/consultas.sql
+6) en bug: añadir libro favorito al readme
