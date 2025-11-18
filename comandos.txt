@@ -18,3 +18,4 @@
 13) crear branch2
 14) mkdir si/git
 Crea archivo login
+18) mv ../../prog/index.php index2.php
