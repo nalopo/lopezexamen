@@ -17,3 +17,4 @@
 12) pulled resolved changes into original
 13) crear branch2
 14) mkdir si/git
+Crea archivo login
