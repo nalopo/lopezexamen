@@ -2,3 +2,4 @@
  2 crear rama branch1 
  3 mkdir -p prog si bddd 
 4 echo "<?php // index ?>" > prog/index.php
+5 desde si: cp ../prog/index.php ../bbdd/consultas.sql
