@@ -5,3 +5,5 @@
 5 desde si: cp ../prog/index.php ../bbdd/consultas.sql
 6) en bug: añadir libro favorito al readme
 7) merge bug -> branch1
+8) merge branch1 -> master; tag v1; push
+8) merge branch1 -> master; tag v1; push
