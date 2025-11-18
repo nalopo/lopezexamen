@@ -7,4 +7,9 @@
 7) merge bug -> branch1
 8) merge branch1 -> master; tag v1; push
 8) merge branch1 -> master; tag v1; push
+<<<<<<< HEAD
 10) add edad in clone (before pull)
+=======
+9) add localidad to readme
+>>>>>>> 8185f638b517d36d669ba036d42b2326cb6a4ad8
+11) conflict resolved in clone; push
